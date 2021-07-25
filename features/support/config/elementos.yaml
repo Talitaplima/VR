@@ -1,0 +1,4 @@
+#Cadastro
+abaPraVoce:    "a[href*='/onde-aceita.htm']"
+btnOndeAceita: "div[class=vr-hero__actions] > a:first-child"
+mapa:          "#map" 
